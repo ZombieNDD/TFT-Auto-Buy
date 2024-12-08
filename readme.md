@@ -29,6 +29,7 @@ Note: The key is valid for 6 hours.
 - Select a champion -> Click Add -> Press Start and continue playing.
 - To remove a champion from the list, select it on the left -> Click Delete.
 - To clear all champions -> Click Clear.
+- Press F10 to Start/Stop Bot (If anything goes wrong).
 
 ## Image
 
