@@ -14,11 +14,14 @@
     "errActive": "You entered an incorrect key! Please try again",
     "Language": "Language",
     "English": "English",
-    "Vietnamese": "Tiếng Việt",
+    "Vietnamese": "Vietnamese",
     "Restart": "Hãy khởi động lại phần mềm để thay đổi ngôn ngữ",
     "NotActive": "Key is not active",
     "Active": "Key is active",
     "Waiting": "Checking the key",
     "Screen": "The screen resolution and game resolution must be 1920x1080 (or fullscreen).",
-    "Scale": "The screen scale must be 100%."
+    "Scale": "The screen scale must be 100%.",
+    "errInternet": "Connection to internet failed",
+    "noInternet": "No internet"
+
 }

@@ -5,7 +5,7 @@ A Windows Form tool utilizing OpenCV to compare shop images with available champ
 This tool is ideal for users who may overlook valuable champions while focusing on rolling for others. It has been optimized to run efficiently, minimizing any significant impact on the game's FPS.
 
 ## Installation Guide:
-*  Clone the tool or download it from the Release page.
+* Clone the tool or download it from the Release page.
 * Extract the files.
 * Run TFT.exe.
 
@@ -22,6 +22,7 @@ If "Key is not active" is displayed:
 2. Wait for the key retrieval page to load.
 3. Follow the ad links to the key page.
 4. Copy the key and paste it into the key field, then submit.
+
 Note: The key is valid for 6 hours.
 
 ## Using the Tool
@@ -41,6 +42,6 @@ Note: The key is valid for 6 hours.
 
 ## Authors
 
-- Make by Zombie
+- Made by ZombieNDD 
 
 

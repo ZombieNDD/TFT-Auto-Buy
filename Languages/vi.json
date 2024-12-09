@@ -13,12 +13,14 @@
     "msgActive": "Khoá đã có hiệu lực!",
     "errActive": "Bạn đã nhập sai khoá! Vui lòng thử lại",
     "Language": "Ngôn ngữ",
-    "English": "English",
+    "English": "Tiếng Anh",
     "Vietnamese": "Tiếng Việt",
     "Restart": "Please restart the software to change the language",
     "NotActive": "Khoá chưa kích hoạt",
     "Active": "Khoá đã kích hoạt",
     "Waiting": "Đang kiểm tra khoá",
     "Screen": "Yêu cầu độ phân giải màn hình và độ phân giải game là 1920x1080 (hoặc toàn màn hình)",
-    "Scale": "Yêu cầu tỉ lệ (Scale) của màn hình là 100%"
+    "Scale": "Yêu cầu tỉ lệ (Scale) của màn hình là 100%",
+    "errInternet": "Kết nối tới internet thất bại!",
+    "noInternet": "Không có internet"
 }
