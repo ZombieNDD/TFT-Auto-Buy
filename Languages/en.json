@@ -19,9 +19,17 @@
     "NotActive": "Key is not active",
     "Active": "Key is active",
     "Waiting": "Checking the key",
-    "Screen": "The screen resolution and game resolution must be 1920x1080 (or fullscreen).",
+    "Screen": "The width screen resolution > 1300 and game resolution must be fullscreen.",
     "Scale": "The screen scale must be 100%.",
     "errInternet": "Connection to internet failed",
-    "noInternet": "No internet"
-
+    "noInternet": "No internet",
+    "errKeyIncorrect": "Your key is incorrect!",
+    "Information": "Information",
+    "Warning": "Warning",
+    "Error": "Error",
+    "newVersion": "A new version is available, click OK to visit the website and download",
+    "baseVersion": "Your version is up to date",
+    "About": "About Us",
+    "Update": "Check for Updates",
+    "InforAbout": "Created by ZombieNDD - Vietnam"
 }

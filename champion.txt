@@ -26,6 +26,7 @@ Loris
 Lux
 Maddie
 Malzahar
+Mel
 Mordekaiser
 Morgana
 Nami
@@ -52,8 +53,10 @@ Urgot
 Vander
 Vex
 Vi
+Viktor
 Violet
 Vladimir
+Warwick
 Zeri
 Ziggs
 Zoe

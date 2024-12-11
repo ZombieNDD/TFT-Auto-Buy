@@ -11,7 +11,7 @@ This tool is ideal for users who may overlook valuable champions while focusing 
 
 ## Usage Guide:
 
-* Set your screen resolution to 1920x1080.
+* Set your screen resolution with Width>1300 and Height>700
 * Set screen scaling to 100%.
 * Run TFT.exe.
 
@@ -42,6 +42,4 @@ Note: The key is valid for 6 hours.
 
 ## Authors
 
-- Made by ZombieNDD 
-
-
+- Made by ZombieNDD

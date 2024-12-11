@@ -19,8 +19,17 @@
     "NotActive": "Khoá chưa kích hoạt",
     "Active": "Khoá đã kích hoạt",
     "Waiting": "Đang kiểm tra khoá",
-    "Screen": "Yêu cầu độ phân giải màn hình và độ phân giải game là 1920x1080 (hoặc toàn màn hình)",
+    "Screen": "Yêu cầu độ phân giải chiều rộng màn hình >1300 và độ phân giải game là toàn màn hình",
     "Scale": "Yêu cầu tỉ lệ (Scale) của màn hình là 100%",
     "errInternet": "Kết nối tới internet thất bại!",
-    "noInternet": "Không có internet"
+    "noInternet": "Không có internet",
+    "errKeyIncorrect": "Key của bạn không đúng!",
+    "Information": "Thông tin",
+    "Warning": "Cảnh báo",
+    "Error": "Lỗi",
+    "newVersion": "Đã có phiên bản mới, nhấn OK vào trang web để tải về",
+    "baseVersion": "Phiên bản của bạn mới nhất",
+    "About": "Về chúng tôi",
+    "Update": "Kiểm tra cập nhật",
+    "InforAbout": "Được thực hiện bởi ZombieNDD - Việt Nam"
 }
