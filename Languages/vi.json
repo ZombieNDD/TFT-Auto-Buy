@@ -19,7 +19,7 @@
     "NotActive": "Khoá chưa kích hoạt",
     "Active": "Khoá đã kích hoạt",
     "Waiting": "Đang kiểm tra khoá",
-    "Screen": "Yêu cầu độ phân giải chiều rộng màn hình >1300 và độ phân giải game là toàn màn hình",
+    "Screen": "Yêu cầu độ phân giải chiều rộng màn hình >1200 và độ phân giải game là toàn màn hình",
     "Scale": "Yêu cầu tỉ lệ (Scale) của màn hình là 100%",
     "errInternet": "Kết nối tới internet thất bại!",
     "noInternet": "Không có internet",
@@ -32,4 +32,5 @@
     "About": "Về chúng tôi",
     "Update": "Kiểm tra cập nhật",
     "InforAbout": "Được thực hiện bởi ZombieNDD - Việt Nam"
+
 }

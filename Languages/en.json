@@ -19,7 +19,7 @@
     "NotActive": "Key is not active",
     "Active": "Key is active",
     "Waiting": "Checking the key",
-    "Screen": "The width screen resolution > 1300 and game resolution must be fullscreen.",
+    "Screen": "The width screen resolution > 1200 and game resolution must be fullscreen.",
     "Scale": "The screen scale must be 100%.",
     "errInternet": "Connection to internet failed",
     "noInternet": "No internet",
